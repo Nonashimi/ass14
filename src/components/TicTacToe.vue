@@ -4,6 +4,9 @@
   <div class="block" v-on:click="clickOnKrest"></div>
   <div class="block" v-on:click="clickOnKrest"></div>
   <div class="block" v-on:click="clickOnKrest"></div>
+  <div>
+    Web Programming React is better
+  </div>
 </div>
  
 
